@@ -5,7 +5,7 @@ import pandas as pd
 import sympy
 from sympy import Function, Symbol, Derivative, exp, log, integrate
 
-from logHazard.plot import plot_side_by_side, plot
+from plot import plot_side_by_side, plot
 
 x = Symbol('x')
 
