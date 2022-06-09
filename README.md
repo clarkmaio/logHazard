@@ -10,6 +10,7 @@ $$
   \item 0 \leqslant g < 1
   \item g' \geqslant 0
 \end{itemize}
+$$
 
 then we define
 
