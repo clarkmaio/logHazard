@@ -13,3 +13,7 @@ then we define
 $$
 logH(g) = \frac{g'}{1-g}
 $$
+
+
+Inspired from the paper ["Constrained functional time series: Applications to the Italian
+gas market"](https://sci-hub.se/10.1016/j.ijforecast.2016.05.002).
