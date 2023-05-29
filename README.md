@@ -11,7 +11,12 @@ Let $g \in C^1(0,1)$ such that
 then we define
 
 $$
-logH(g) = \frac{g'}{1-g}
+logH(g)(s) = \frac{g'(s)}{1-g(s)}
+$$
+
+
+$$
+logH^{-1}(f)(x) = 1-\exp\left(-\int_a^x \exp \left(f(s)\right) ds \right)
 $$
 
 
